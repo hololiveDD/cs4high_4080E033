@@ -39,6 +39,15 @@ Layer-7: L7 switch, proxy
 ```
 OSI Model Explained | OSI Animation | Open System Interconnection Model | OSI 7 layers | TechTerms
 https://www.youtube.com/watch?v=vv4y_uOneC0
+
+必考問答題: Protocol
+
+名詞解釋題:NFC RFID
+
+近距離無線通訊（英語：Near-field communication，NFC）
+https://en.wikipedia.org/wiki/Radio-frequency_identification
+
+
 ```
 
 ### TCP/IP
