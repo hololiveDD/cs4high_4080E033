@@ -51,9 +51,8 @@ https://en.wikipedia.org/wiki/Radio-frequency_identification
 ```
 
 ### TCP/IP
-```
 ![image](http://telescript.denayer.wenk.be/~hcr/cn/idoceo/images/tcp_header.gif)
-```
+
 
 ### IEEE 802
 ```
